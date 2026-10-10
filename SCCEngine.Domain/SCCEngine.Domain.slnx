@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../SCCEngine.Driver/SCCEngine.Driver.csproj" Id="c727d7c7-5b88-41d0-ac22-a7cee1ab8ee7" />
+  <Project Path="../SCCEngine.Infrastructure/SCCEngine.Infrastructure.csproj" Id="8f063b28-97ef-4557-89b1-f80a182f035a" />
+  <Project Path="../SCCEngineTests/SCCEngineTests.csproj" Id="6bd4492b-0e3a-42c6-a630-d80bdd74264e" />
+  <Project Path="SCCEngine.Domain/SCCEngine.Domain.csproj" />
+</Solution>
